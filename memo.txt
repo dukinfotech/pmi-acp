@@ -1,0 +1,61 @@
+Sau khi đọc xong mỗi chapter, quay lại đọc lại phần summary và tự hỏi lại bản thân về:
+	- Ý nghĩa các khái niệm
+	- Cách sử dụng
+	- Tại sao nó lại quan trọng trong các dự án agile
+
+1. Sử dụng cách tiếp cận agile cho các dự án (đặc biệt là các dự án tri thức) mà chúng ta đối mặt với các issue
+khác nhau cần cách tiếp cần linh hoạt để hiệu quả nhất trong mọi tình huống
+2.  knowledge work projects khác với manufacturing projects và agile tiên phong giải quyết các vấn đề cho knowledge work projects (ko chỉ software development)
+ Khi đối mặt với các issue hoặc thử thách mới mà chưa gặp bao giờ thì dựa vào thử nghiệm và kinh nghiệm để xây dựng thành công từng chút một
+1. Agile Mindset
+	- Không phải là sử dụng thành thạo tool hoặc practices hoặc làm theo 1 phương pháp luận chỉ định mà là áp dụng một cách tư duy, suy nghĩ mới dựa trên giá trị và các nguyên tắc agile (gọi là Agile Manifesto)
+2. Declaration of Interdependence DOI gồm 6 giới luật:
+	-  increase return on investment: Tăng lợi nhuận bằng cách đầu tư
+	- deliver reliable results: Mang lại kết quả đáng tin cậy
+	- expect uncertainty: Mong đợi sự không chắc chắn và quản lý chúng thông qua lặp đi lặp lại, dự đoán và thích ứng
+	-  unleash creativity and innovation: Giải phóng sự sáng tạo và đổi mới, coi con người là nguồn giá trị vô hạn
+	- boost performance: Nâng cao hiệu suất thông qua trách nhiệm của nhóm đối với kết quả và chia sẻ trách nhiệm cho tính hiệu quả của nhóm
+	-  improve effectiveness and reliability: Cải thiện hiệu quả và sự tin cậy thông qua chiến dịch, quy trình, thực hành
+3. "Think - Do - Encourage others" model
+4. Agile Triangle: (scope - cost - time)
+	- Agile teams cho phép thay đổi  scope trong phạm vi cost và time cố định
+	- Các knowledge work projects chỉ có thể hoàn thành nhiều nhất đến ngày mục tiêu chứ ko phải như industrial work projects phải hoàn thiện hoàn toàn trước ngày giao sẵn
+	=> Cần xác nhận được ranh giới có thể chấp nhận được
+5. Agile Manifesto bao gồm 4 values và 12 principles
+	- Cá nhân và tương tác hơn là process và công cụ
+	- Làm việc để release sản phẩm đang hướng đến hơn là tài liệu toàn diện => Agile approach: Tài liệu chỉ cần đủ, ko cần quá nhiều thời gian để update tài liệu tập trung năng lượng và thời gian vào mục đích cuối
+	- Hợp tác với KH hơn là đàm phán hợp đồng
+	- Sẵn sàng change request hơn là bám theo kế hoạch
+12 principles
+2 phương pháp luận nổi bật được sử dụng trong đề thi là Scrum và XP
+Khi làm bài test cần phải giả định kích cỡ team và thành phần team, độ phức tạp của dự án trong câu hỏi
+(nếu phân vân thì tưởng tượng team size lên tới 12 người và quỹ vô hạn)
+1. Các principle của Scrum:
+	- transparency: Các bên chịu trách nhiệm về output phải thống nhất với nhau
+	- inspection: Thanh tra kịp thời tiến độ dự án và 
+2. Scrum activities (event, Ceremonies)
+	- Backlog Refinement: Tụ tập với nhau trao đổi để xem item backlog nào đã resolve
+	- Sprint Planning Meeting: Tụ tập họp lên kế hoạch cho output của sprint sắp tới
+	- Daily Scrum: Scrum Master họp với team dev 15p mỗi ngày, mỗi thành viên trong team trả lời 3 câu hỏi:
+		+ Những việc gì đã xong kể từ lần daily scrum trước
+		+ Kế hoạch thực hiện ngày hôm nay
+		+ Có gì trở ngại hay không?
+	- Scrum of scrum có thể tổ chức ko cần daily giữa các team scrum với nhau thay vì giữa các thành viên
+	- Sprint Review: Tổ chức ở cuối mỗi sprint bao gồm cả team dev, PO và Scrum Master (có thể là các cổ đông khác). Team dev sẽ demo cho PO xem và PO sẽ quyết định sprint đó done hay không?
+	Sau đó mọi người cùng nhau review backlog và quyết định xem làm gì ở sprint tiếp theo
+	- Sprint Retrospective: Sau khi Sprint Review và trước khi tiếp tục một sprint mới, team dev tổ chức meeting rút kinh nghiệm và nêu ra những gì cần improve từ những feedback của PO
+3. Scrum Artifacts:
+	- Product Increment: Để được PO chấp nhận những Increment trong buổi Sprint Review thì team dev và PO cần phải định nghĩa thế nào là "done" để thống nhất
+	- Product Backlog: là danh sách các công việc cần phải hoàn thành để build product bao gồm: build, chức năng, yêu cầu, chất lượng, nâng cao,...
+	- Sprint Backlog: 
+Scrum thiên về sắp xếp độ ưu tiên và lấy feedback
+Extreme Programming (XP): thiên về best practices phát triển phần mềm
+XP Core Values:
+	- Simplicity: Giảm thiểu phức tạp và lãng phí, tìm thứ đơn giản nhất có thể hoạt động được
+	- Communication: Các thành viên trong team đều biết task của mình và task của những người khác
+	- Feedback: Team nên lấy feedback sớm nhất có thể để improve sản phẩm
+	- Courage: Sẵn sàng chia sẻ code cho team và sẵn sàng đón nhận change request
+	- Respect: Cần tôn trọng các công việc của team member khác vì công việc của họ đánh giá fail/succeess tới toàn bộ dự án
+XP Team Roles:
+	- Coach: Mentor của team giúp team xử lý vấn đề (team leader) giúp team member làm việc năng động và hiệu quả hơn, họ cũng có thể là manager 
+	
