@@ -57,5 +57,63 @@ XP Core Values:
 	- Courage: Sẵn sàng chia sẻ code cho team và sẵn sàng đón nhận change request
 	- Respect: Cần tôn trọng các công việc của team member khác vì công việc của họ đánh giá fail/succeess tới toàn bộ dự án
 XP Team Roles:
-	- Coach: Mentor của team giúp team xử lý vấn đề (team leader) giúp team member làm việc năng động và hiệu quả hơn, họ cũng có thể là manager 
+	- Coach: Mentor của team giúp team xử lý vấn đề (team leader) giúp team member làm việc năng động và hiệu quả hơn, họ cũng có thể là manager
+	- Customer: là người đại diện nghiệp vụ cung cấp requirements, độ ưu tiên,... (tương đương với PO trong Scrum)
+	- programmer: Thực hiện code theo user stories được yêu cầu
+	- Testers: Đảm bảo chất lượng QA giúp customer viết testcase có thể chấp nhận được (role này có thể fill bởi programmer nếu họ có skill)
+XP Core Practices: 
+	- Whole team: toàn bộ mọi người ngồi cùng 1 địa điểm để tiết kiệm tài nguyên và thay đổi vai trò cho nhau nếu cần thiết
+	- 
+Lean Core Concepts:
+	- Eliminate waste: Tối thiểu hóa sự lãng phí để tối đa hóa giá trị đạt được
+	- Empower the team: Trao quyền quyết định cho member để hiệu quả và thành công
+	- Deliver fast:
+	- 
+Five Principles of Kanban:
+	- Visualize the workflow: 
+Feature-Driven Development (FDD)
+DSDM (Dynamic Systems Development Method)
+Crystal
+Servant Leadership: Đề cao team member người chịu trách nhiệm hoàn thành công việc và đạt được giá trị kinh doanh trong khi người leader chỉ là người đứng ra loại bỏ các rào cản làm chậm tiến độ dự án
+Servant leader có 4 nhiệm vụ (https://www.atoha.com/blogs/kien-thuc/servant-leadership-lanh-dao-day-to-trong-agile)
+	+ Shield the team frominterruptions: Bảo vệ nhân viên khỏi những nguyên nhân có thể gây gián đoạn công việc
+	+ Remove impediments toprogress: Xóa bỏ trở ngại
+	+ Communicate (andre-communicate) the project vision: Xác định (tái xác định) tầm nhìn dự án
+	+ Carry food and water: Giữ nhiệt và hiệu suất của nhân viên là điều kiện thiết yếu cho giá trị này
+Principles cho servant leader khi leading các dự án Agile:
+	+ Learn the team members’needs: Biết lắng nghe nhân viên
+	+ Learn theproject’s requirements: Nắm rõ yêu cầu dự án
+	+  Act for the simultaneous welfare of the team and the project: Hành động vì lợi ích chung của thành viên và dự án
+	+ Create an environment of functional accountability: Tạo dựng môi trường có trách nhiệm
+	+ Have a vision of the completed project: Tự nhận thức
+	+ Use the project vision to drive your own be havior: Điều chỉnh hành vi dựa trên tầm nhìn dự án
+	+ Serve as the central figure in successful project team development: Là tấm gương mẫu mực
+	+ Recognize team conflict as a positive step: Nhận biết mâu thuẫn trong dự án
+	+ Manage with an eye toward ethics: Có đạo đức trong công việc
+	+ Remember that ethics is not an afterthought,but anintegralpart of our thinking: Có niềm tin
+	+ Take time to reflect on the project: Dành thời gian để nhìn lại
+	+ Develop the trick of thinking backwards: Phát triển cách nghĩ “ngược chiều”
 	
+
+1. D B
+What is most important for your agile team to continuously focus on?
+
+2. A C
+3. D D
+4. A A
+5. A C
+6. C B
+7. C A
+8. B B
+9. D D
+10. B D
+11. B C
+12. B B
+13. A A
+14. D D
+15. D D
+16. Bb C
+17. A D
+18. A D
+19. B B
+20. B C
