@@ -2,6 +2,50 @@ Sau khi đọc xong mỗi chapter, quay lại đọc lại phần summary và
 	- Ý nghĩa các khái niệm
 	- Cách sử dụng
 	- Tại sao nó lại quan trọng trong các dự án agile
+	
+Water fall phù hợp với industrial work (các công viêc có dây chuyền sản xuất, con người chỉ là phụ)
+Agile phù hợp với các knowledge work (phù hợp với các dự án chưa rõ requirements, sử dụng công nghệ mới hoặc có khả năng cao change request trong tương lại)
+I. Định nghĩa
+	- Agile là một phương pháp luận các practices (thực tiễn) (được base từ value và principle của agile)
+II. Các đặc điểm của Agile
+	- Agile manifesto: bao gồm 4 values và 12 principles
+	- Agile values:
+		+ Cá nhân và tương tác hơn là process và công cụ
+		+ Làm việc để release sản phẩm đang hướng đến hơn là tài liệu toàn diện
+			Barely sufficient: Chỉ tạo tài liệu vừa đủ
+			Just in time: Tạo tài liệu vào thời điểm hợp lý (trước 
+			Just because: Chỉ tạo tài liệu nếu thực sự cần thiết (bắt buộc phải có lý do mới tạo)
+			=> Agile approach: Tài liệu chỉ cần đủ, ko cần quá nhiều thời gian để update tài liệu tập trung năng lượng và thời gian vào mục đích cuối
+		+ Hợp tác với KH hơn là đàm phán hợp đồng
+		+ Sẵn sàng change request hơn là bám theo kế hoạch
+	- Agile principles:
+		+ Satisfy customer deliver valuable features
+		+ Welcome changing requirements: Có thể thay đổi scope trong phạm vi cost và thời gian cho phép => Mỗi lần release sprint là end-user có thể sử dụng được (waterfall thì ko)
+		+ Deliver working features frequently
+		+ Work together daily (stand up meeting hàng ngày, ngược lại tồn tại role onsite customer ngồi ở VN để họp hàng ngày)
+		+ Motivate invidual trusted i supported: Truyền năng lượng tích cực, tạo đủ mọi điều kiện tốt nhất cho team, loại bỏ các barrie rào cản,...) => servant leader
+		+ Face to face
+		+ Working features are the primary measure
+		+ Sustainable development pace: Duy trì tốc độ phát triển ổn định (hạn chế OT, nếu phát sinh issue thì team tự giác OT để kịp fixed time)
+		+ Technical excellence, good design: Thiết kế chuẩn sao cho sẵn sàng respond to change
+		+ Simplicity maxium the work not done: Tập trung vào những thứ đơn giản nhất và cho ra sản phẩm nhanh nhất
+		+ Self-organize: Bên team tự đưa ra quyết định và recommend ngược lại cho KH sao cho ra sản phẩm tốt nhất => team tự design và tự implement thì là best
+		+ Inspect and adapt: Mỗi sprint, team tự retro inspect (KPT) để cải thiện các issue gặp phải
+	=> Trên backlog các ticket có value cao nhất ở trên top
+III. Các framework của Agile
+	1. Scrum bao gồm role, event, artifact
+		- Scrum pillars (trụ cột):
+			+ transparency: Mọi yếu tố của dự án thì toàn bộ team phải nắm được: phải hiểu được target, hiểu được done,... (VD 1 ông nghỉ thì các ông khác đều nắm được và tiếp tục triển khai được)
+			+ inspection: Các buổi sprint review để xem output có đạt được sprint goal hay không
+			+ adaptation: Các buổi retro inspect look back lại xem có các điểm nào chưa tốt thì cải thiện
+		- Scrum values:
+			+ Courage: Dám đưa ra ý kiến của mình, sai thì dám nhận lỗi, dám challenge bản thân
+			+ Focus: Mọi thành viên đều tập trung vào sprint goal, thấy được giá trị của bản thân
+			+ Commitment: Một khi đã đề ra sprint goal và assign task thì các member cố gắng tối đa để đặt được sprint goal
+			+ Respect: Tôn trọng nhau
+			+ Openess: Mọi người cởi mở chia sẻ kinh nghiệm,... lẫn nhau
+	2. Extreme Programming
+
 
 1. Sử dụng cách tiếp cận agile cho các dự án (đặc biệt là các dự án tri thức) mà chúng ta đối mặt với các issue
 khác nhau cần cách tiếp cần linh hoạt để hiệu quả nhất trong mọi tình huống
@@ -45,7 +89,7 @@ Khi làm bài test cần phải giả định kích cỡ team và thành phần 
 	Sau đó mọi người cùng nhau review backlog và quyết định xem làm gì ở sprint tiếp theo
 	- Sprint Retrospective: Sau khi Sprint Review và trước khi tiếp tục một sprint mới, team dev tổ chức meeting rút kinh nghiệm và nêu ra những gì cần improve từ những feedback của PO
 3. Scrum Artifacts:
-	- Product Increment: Để được PO chấp nhận những Increment trong buổi Sprint Review thì team dev và PO cần phải định nghĩa thế nào là "done" để thống nhất
+	- Product Increment: Để được PO chấp nhận những Increment trong buổi Sprint Review thì team dev và PO cần phải định 5 thế nào là "done" để thống nhất
 	- Product Backlog: là danh sách các công việc cần phải hoàn thành để build product bao gồm: build, chức năng, yêu cầu, chất lượng, nâng cao,...
 	- Sprint Backlog: 
 Scrum thiên về sắp xếp độ ưu tiên và lấy feedback
@@ -94,26 +138,53 @@ Principles cho servant leader khi leading các dự án Agile:
 	+ Take time to reflect on the project: Dành thời gian để nhìn lại
 	+ Develop the trick of thinking backwards: Phát triển cách nghĩ “ngược chiều”
 	
+CHƯƠNG 2: VALUE-DRIVEN DELIVERY (Delivery dựa trên các giá trị)
+(20% - 24 câu hỏi)
+1. Cần phải delivery với các highest value ASAP bởi vì:
+	- Dự án càng để lâu, càng phình to thì càng rủi ro làm giảm value như failure, giảm các lợi ích, mất các cơ hội,...
+	- Chứng minh rằng team đang hiểu rõ spec của dự án và mong muốn của KH
+=> Value-drivent delivery nghĩa là đưa ra quyết định ưu tiên các task giúp tăng giá trị và giảm thiểu rủi ro cho project
+và sau đó thực hiện các task dựa trên các đánh giá mức độ ưu tiên đó
+2. Return on investment ROI: Hoàn lại vốn đầu tư là tỷ lệ % giữa lợi ích nhận vào trên số tiền đã bỏ ra đầu tư ở cuối dự án
+3. Net present value NPV: Giá trị hiện tại ròng là hiệu số của tổng thu trừ tổng chi được quy về mặt bằng thời gian hiện tại theo 1 tỷ suất hoàn vốn nhất định
+4. Internal Rate of Return IRR Lãi suất hoàn vốn nội bộ là tỷ lệ chiết khấu mà tại đó dòng tiền vào dự án (doanh thu) và dòng tiền ra của dự án (chi phis) bằng nhau
+	- Ko cần quan tâm tới interest và inflation
+	=> Coi nó như lãi suất của tài khoản tiết kiệm, khi 1 công ty chọn project nào để đầu tư, họ sẽ tính toán lãi suất hoàn vốn cho những project tiềm năng và chọn project có IRR cao nhất
+5. Earned Value Management (EVM): Quản lý giá trị thu được giúp đánh giá giá trị của các project tiềm năng
+	- S-curve giúp nhanh chóng biết được liệu project của chúng ta có dưới ngân sách budget hay không?
+	- Gantt Chart giúp giám sát status của project schedule
+6. Agile Project Accounting
+7. Key Performance Indicators (KPIs)
+	- Rate of progress
+	- Remain work
+	- Likely completion date
+	- Likely costs remaining
+8. Managing Risk
+	- Sử dụng tool risk-adjusted backlog và risk burndown charts
+9. Regulatory Compliance: Tuân thủ quy định mục đích đảm bảo an toàn
+10. Prioritization Schemes:
+	- Priority 1, Priority 2, Priority 3, Priority 4
+	- MOSCOW (Must have, Should have, Could have, Would like to have but not this time
+Agile team thích sử dụng low-tech,high-touch tool để planing and tracking
+11. Minimal Viable Product (Sản phẩm khả thi tối thiểu)
+	- Khi release tính năng cho KH thì tính năng đó phải hữu ích và có giá trị
+12. Agile Tooling
+	- Agile team thích sử dụng low-tech,high-touch tool để planing and tracking
+13. Task/Kanban Boards
 
-1. D B
-What is most important for your agile team to continuously focus on?
-
-2. A C
-3. D D
-4. A A
-5. A C
-6. C B
-7. C A
-8. B B
-9. D D
-10. B D
-11. B C
-12. B B
-13. A A
-14. D D
-15. D D
-16. Bb C
-17. A D
-18. A D
-19. B B
-20. B C
+----------
+1. What is IP incentive => Author
+2. What are the methods of encouragement for IP contribution in Fsoft => IP incentive an rewards in
+3. What is link of SKU => /sku???
+4. What are responsibilities of a PM in SKU => All
+5. What is SKU portal => Fsoft level provide
+6. What is the incentive paid for => Ko phai 30 trieu
+7. Who has permission to own IP on SKU portal => Ko phai the author's unit
+8. What does IP stand for => Ko phai Information Provider
+8. What type of items can be submitted to SKU portal => Ko phai standardize solution
+9. What are the benefits when projects apply to SKU => ALl of above
+10. Which of the following is right about the purpose of the SKU program => Ko phai ALl of above
+11. How can i get support for SKU programe => ALl of above
+12. How many IP level are there on SKU portal => KO phai 4
+13. What is the benefit PM will receive after joining SKU => PM contribution point
+14. What SKU stand for => software & knowledge
