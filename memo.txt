@@ -2,11 +2,24 @@ Sau khi đọc xong mỗi chapter, quay lại đọc lại phần summary và
 	- Ý nghĩa các khái niệm
 	- Cách sử dụng
 	- Tại sao nó lại quan trọng trong các dự án agile
-	
+1. Các công việc hiện tại của xã hội được chia làm 2 loại:
+	- Industrial work (các công viêc có dây chuyền sản xuất, con người chỉ là phụ)
+	- Knowledge work (các công việc cần nhiều chất xám và con người đóng vai trò chính)
 Water fall phù hợp với industrial work (các công viêc có dây chuyền sản xuất, con người chỉ là phụ)
 Agile phù hợp với các knowledge work (phù hợp với các dự án chưa rõ requirements, sử dụng công nghệ mới hoặc có khả năng cao change request trong tương lại)
+Slide 5:
+	Định nghĩa agile và các framework
+Slide 6:
+	Các đặc điểm của agiles:
+	- Các phase của agiles được chia thành các vòng lặp gọi là interation, mỗi interation sẽ là 1 chức năng
+mà một khi release thì end-user có thể sử dụng được. Mỗi interation này diễn ra trong vòng 3-4 tuần.
+	- Agile đề cao con người. Các thành viên trong team có vai trò tương đương nhau. Ông leader chỉ là lãnh đạo phục vụ
+giải quyết các vấn đề ngáng đường team, giải quyết các requirement của teams
+	- VÍ dụ như Water fall thì tester sẽ test và log issue sau đó dev sẽ fix, còn nếu ko thì kệ. Mỗi team sẽ bao gồm khoảng 5-6 nguoiwf
+và mọi người làm việc để làm sao hiểu được khái niệm done và thực hiện
+
 I. Định nghĩa
-	- Agile là một phương pháp luận các practices (thực tiễn) (được base từ value và principle của agile)
+	- Agile là một phương pháp luận bao gồm các best practices (thực tiễn) (được base từ value và principle của agile)
 II. Các đặc điểm của Agile
 	- Agile manifesto: bao gồm 4 values và 12 principles
 	- Agile values:
